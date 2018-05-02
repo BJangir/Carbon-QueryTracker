@@ -45,8 +45,8 @@ import org.carbondata.util.GeneralReqResUtil;
             .prepareConnection(jdbc_name, jdbc_url, jdbc_class, jdbc_user, jdbc_password);
         returnMessage = b ?
             " Connection " + jdbc_name + " is added successfully" :
-            " Something Wrong Please check logs \n Either given values or wrong or "
-                + "\n Jdbc Server not running.";
+            " Something Wrong Please check logs , Either given values or wrong or "
+                + ", Jdbc Server not running.";
 
       }
       return returnMessage;
