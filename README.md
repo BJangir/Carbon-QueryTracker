@@ -35,3 +35,7 @@ To be Enhanced for
  7. Query Progress monitoring
  8. Concurrent Query Execution
  9. Refersh button to get intermidiat status
+ 
+ 
+ Pics
+ ![alt text](https://github.com/BJangir/Carbon-QueryTracker/master/src/main/webapp/images/snapshot1.JPG)
