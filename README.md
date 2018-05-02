@@ -1,4 +1,9 @@
 # Carbon-QueryTracker
+This Project addresed below problems 
+1.) Demo Carbon Query execution and Performance Manully. 
+2.) Any Feature Test in Cluster. Currently Dev test in locally but it can behave different in cluster execution
+3.) Query Execution performance verifcation manually .(TPC-H of 100 GB will loaded in backend ) 
+
 Project to Monitor and Trace Carbon Queries
 
 git clone git@github.com:BJangir/Carbon-QueryTracker.git
